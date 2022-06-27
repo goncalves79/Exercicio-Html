@@ -57,7 +57,7 @@ table{
 th,td{
     columns: 2;
     border: 5px solid rgba(37, 15, 15, 0.938);
-    font-size:large;
+    font-size:x-large;
     border-radius:10px;
     text-decoration: dashed;
     text-align: center;
